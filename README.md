@@ -1,12 +1,4 @@
 ### Hi there 👋
-밀레니얼을 위한 시사 뉴스레터 서비스 뉴닉NEWNEEK에서 프로덕을 만들고 있어요.
-프로덕트 디자인과 프론트엔드 개발을 하고 있어요.
-
-#### 강점
-
-#### 약점
-
-
 
 <!--
 **soojubm/soojubm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
