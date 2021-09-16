@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+유아이를 그립니다. 작은 회사에서 함께 만들어가는 것을 좋아합니다. 해결하려고 하는 문제가 정말로 존재하는 것인지, 솔루션이 핵심가치에 부합하는지를 제외하면 나머지는 모두 세부사항이라고 생각합니다. 
+
 <!--
 **soojubm/soojubm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
