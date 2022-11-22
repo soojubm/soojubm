@@ -3,7 +3,7 @@
 자기소개는 어려워
 
 
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsoojubm%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=%EB%AA%A8%EC%9A%94&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <!--
 **soojubm/soojubm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
