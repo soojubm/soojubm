@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-디자인 시스템에 진심입니다. 플랫 사이트맵과 유저 플로우, 검색과 탐색, 필터와 정렬, Human interface guidelines에는 tab과 chip이 없는데 iOS는 어떻게 플로우를 만들어가는지, 엄격함과 유연함, 정보와 위계, 역할과 형태, 컨테이너와 프레젠테이션, 모바일 퍼스트와 가로 스크롤, 디자인 시스템과 스타일 가이드, 디자인 시스템과 유아이 라이브러리 등 나누고 싶은 이야기가 많습니다.
+디자인 시스템에 진심입니다. 플랫 사이트맵과 유저 플로우, 검색과 탐색, 필터와 정렬, Human interface guidelines에는 tab과 chip이 없는데 iOS는 어떻게 플로우를 만들어가는지, 엄격함과 유연함, 정보와 위계, 역할과 형태, 컨테이너와 프레젠테이션, 모바일 퍼스트와 가로 스크롤, 디자인 시스템과 스타일 가이드, 디자인 시스템과 유아이 라이브러리, 8pt grid와 rem 등 나누고 싶은 이야기가 많습니다.
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsoojubm%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=%EB%AA%A8%EC%9A%94&edge_flat=false)](https://hits.seeyoufarm.com)
