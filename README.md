@@ -1,4 +1,4 @@
-UI Designer 
+주업은 주식 투자입니다.
 
 - 🚧 [Design System Project](http://soojubm.github.io)
 - ✍️  [Notion](https://soojubm.notion.site/soojubm/UI-Designer-9c18f4dd39eb4181b9f9c2ee76896618)
