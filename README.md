@@ -6,6 +6,7 @@
 > ⚡⚡⚡  : vanilla javascript, css navtive, web components   
 > ⚡⚡   : react, next, recoil, react query   
 > ⚡    : google analytics, google tag manager   
+- [Resume by surfit](https://my.surfit.io/w/942774731)
 - [Design System Project](http://soojubm.github.io)
 - [Notion](https://soojubm.notion.site/soojubm/UI-Designer-9c18f4dd39eb4181b9f9c2ee76896618)
 - 주업은 주식 투자입니다.
