@@ -1,5 +1,9 @@
 ##### Design System Ops
 
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/{soojubm}?pet-id=1" width="1000" height="120"/>
+</a>
+
 ```
 🐝 team mindset & business driven, component driven development, design system, design tokens
 ```
