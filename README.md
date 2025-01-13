@@ -1,7 +1,7 @@
 ##### Design System Ops
 
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/soojubm"/>
+  <img src="https://render.gitanimals.org/farms/soojubm" style="width:100%" />
 </a>
 
 ```
