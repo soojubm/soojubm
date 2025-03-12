@@ -4,9 +4,6 @@
 🐝 team mindset & business driven, component driven development, design system, design tokens
 ```
 > ⚡⚡⚡  : vanilla javascript, css navtive, web components   
-> ⚡⚡   : react, next, recoil, react query   
-> ⚡    : google analytics, google tag manager
-> 
 - [Design System Project](http://soojubm.github.io)
 
 <a href="https://github.com/devxb/gitanimals">
